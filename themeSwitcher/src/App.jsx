@@ -1,4 +1,4 @@
-
+// remember to change config tailwind
 import { useEffect,useState } from 'react';
 import './App.css'
 import { ThemeProvider } from './context/theme';
